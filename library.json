@@ -1,0 +1,20 @@
+{
+  "name": "SerialDebugger",
+  "version": "1.0.0",
+  "description": "This is an Arduino Stream class that can be use to dump incomming and outgoing data to another Serial Stream for debugging purpose.",
+  "keywords": "Serial, Debug",
+  "authors":
+  {
+    "name": "Umesh Walkar",
+    "url": "https://github.com/umeshwalkar",
+    "maintainer": true
+  },
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/umeshwalkar/SerialDebugger.git"
+  },
+  "homepage": "https://github.com/umeshwalkar/SerialDebugger",
+  "frameworks": [ "arduino" ],
+  "platforms": "*"
+}
